@@ -38,3 +38,6 @@ This data set provided by Starbucks, contains simulated data that mimics custome
 
 ## <a name="License"></a>Licensing, Authors, Acknowledgements
 Must give credit to Starbucks for the data. I used the help of the stackoverflow community, the pandas and scikit-learn documentation.
+
+### Summary
+Please find a summary of my findings on my medium post [here!](https://antonio-f-bauer.medium.com/starbucks-capstone-project-666057305ac8)
