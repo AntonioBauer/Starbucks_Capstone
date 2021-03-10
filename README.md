@@ -16,7 +16,7 @@ There should be no libraries necessary to run the code here beyond the Anaconda 
 This data set provided by Starbucks, contains simulated data that mimics customer behavior on their rewards mobile app. Once every few days, Starbucks sends out an offer to users of the mobile app. An offer can be merely an advertisement for a drink or an actual offer such as a discount or BOGO (buy one get one free). The goal of this project is to analyze how well certain customer groups respond to certain offer types by combining the three provided data sets. In order to achieve this goal, I had to clean and combine the three provided data sets first and then explore the data by visualizing it. Then the data was modeled, to be able to determine if an offer was viewed and then completed by am member. At the end, I used a GradientBoostingClassifier in combination with GridSearchCV to make predictions on whether a customer will just view an offer or if he is going to view and complete it.
 
 ## <a name="Description"></a> File Description
-Starbucks_Capstone_notebook.ipynb - Jupyter Notebook that contains the analysis of the Starbucks capstone data.
+Starbucks_Capstone_notebook.ipynb - Jupyter Notebook that contains the analysis of the Starbucks capstone challenge.
 
 ## <a name="License"></a>Licensing, Authors, Acknowledgements
 Must give credit to Starbucks for the data. I used the help of the stackoverflow community, the pandas and scikit-learn documentation.
