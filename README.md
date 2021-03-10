@@ -27,6 +27,6 @@ Here are the key findings of my analysis:
 * There're more male members included in this data set than female members. Most of the members are in their 50's and 60's.
 * BOGO offers have a higher viewing rate than discount offers, but discount offers have a higher completion rate than BOGO offers.
 * Female members have a 10% to 25% higher completion raten than male members consistently across all offer types.
-* In this scenario, the GradientBoostingClassifier is superior to the RandomForestClassifier when it comes to predicting if a member just views an offer or views and completes and offer.
+* In this scenario, the GradientBoostingClassifier is superior to the RandomForestClassifier when it comes to predicting if a member just views an offer or views and completes and offer. The accuracy of the improved model is: 81.35%. 
 
 To get a more detailed summary of my analysis, please read my medium post [here!](https://antonio-f-bauer.medium.com/starbucks-capstone-project-666057305ac8)
